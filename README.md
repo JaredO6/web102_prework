@@ -24,8 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/m4ttQlH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![Video walkthrough](https://i.imgur.com/example.gif)
+[![Video walkthrough](https://i.imgur.com/m4ttQlH.gif)](https://i.imgur.com/m4ttQlH.gif)
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
