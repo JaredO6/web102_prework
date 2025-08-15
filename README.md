@@ -24,9 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video walkthrough](https://i.imgur.com/example.gif)
-[![Video walkthrough](https://i.imgur.com/m4ttQlH.gif)](https://i.imgur.com/m4ttQlH.gif)
-GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
+https://github.com/user-attachments/assets/a4937318-1ca3-4bda-ba76-9b3f56414276
+Video created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
