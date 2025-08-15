@@ -21,6 +21,12 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -72,4 +78,22 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+/*OPTIONAL: Adds box shadows and turns cursor to pointer 
+when hovering over game sorting buttons*/
+
+#unfunded-btn:hover {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 1);
+    cursor: pointer;
+}
+
+#funded-btn:hover {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 1);
+    cursor: pointer;
+}
+
+#all-btn:hover{
+    box-shadow: 0 0 30px rgba(0, 0, 0, 1);
+    cursor: pointer;
 }
